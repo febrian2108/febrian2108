@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 
 <h3 align="left">About Me </h3>
-- 🎯 Goal : **Be the Profesional Web Developer**
+- 🎯 Goal : **Be the Profesional Web Developer** <br>
 - 📚 **I am currently learning the Python programming language**
 
 <h3 align="left">Connect with me:</h3>
