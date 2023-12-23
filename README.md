@@ -3,7 +3,6 @@
 <h3 align="left">My name is Fahri Febrian and I'm a Beginner Full-Stack Web Developer, currently studying at the Indonesian Teknokrat University majoring in Informatics</h3>
 <h4>A passionate Web Developer from Indonesia</h4>
 
-
 <h3 align="left">About Me </h3>
 - 🎯 Goal : Be the Profesional Web Developer <br>
 - 📚 I am currently learning the Python programming language
