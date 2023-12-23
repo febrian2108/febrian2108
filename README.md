@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Fahri Febrian</h1>
-<h3 align="center">A passionate Web Developer from Indonesia</h3>
+<h3 align="left">A passionate Web Developer from Indonesia <br>
+My name is Fahri Febrian and I'm a Beginner Full-Stack Web Developer, currently studying at the Indonesian Teknokrat University majoring in Informatics</h3>
+
 
 <h3 align="left">About Me </h3>
-- 🎯 Goal : **Be the Profesional Web Developer** <br>
-- 📚 **I am currently learning the Python programming language**
+- 🎯 Goal : Be the Profesional Web Developer <br>
+- 📚 I am currently learning the Python programming language
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
