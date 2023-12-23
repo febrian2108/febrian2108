@@ -1,7 +1,7 @@
-### Hi there 👋
+### <h1>Hi there 👋</h1>
 
-<h3 align="left">A passionate Web Developer from Indonesia <br>
-My name is Fahri Febrian and I'm a Beginner Full-Stack Web Developer, currently studying at the Indonesian Teknokrat University majoring in Informatics</h3>
+<h3 align="left">My name is Fahri Febrian and I'm a Beginner Full-Stack Web Developer, currently studying at the Indonesian Teknokrat University majoring in Informatics</h3> <br>
+A passionate Web Developer from Indonesia 
 
 
 <h3 align="left">About Me </h3>
