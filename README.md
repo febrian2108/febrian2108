@@ -2,7 +2,7 @@
 
 <h3>My name is Fahri Febrian and I'm a Junior Software Engineer, currently studying at the Indonesian Teknokrat University majoring in Informatics</h3>
 
-<p>A passionate Web Developer from Indonesia</p>
+<p>A passionate Software Engineer from Indonesia</p>
 
 <h3>About Me</h3>
 
