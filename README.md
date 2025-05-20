@@ -11,6 +11,12 @@
 
 ###
 
+<div align="left">
+  <img height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF6OTdsOHVoMDN3cWlhd3Bnb3R4cWxjcXo3cW9wNTBna3MzNWdidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -103,11 +109,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=f0oslbh0prhhtsy5x6fxhe29i&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<div align="left">
-  <img height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF6OTdsOHVoMDN3cWlhd3Bnb3R4cWxjcXo3cW9wNTBna3MzNWdidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
-</div>
-
-###
