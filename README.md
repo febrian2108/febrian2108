@@ -19,6 +19,15 @@
 
 ###
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/fahri-febriandika-pamungkas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prayogi-setiawan-6a4943243" height="30" width="40" /></a>
+<a href="https://www.instagram.com/febri_a21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prayogi_satya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@fahrifebrian911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kangkodingofc" height="30" width="40" /></a>
+</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
