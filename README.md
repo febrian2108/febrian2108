@@ -105,15 +105,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/febrian2108/febrian2108/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/febrian2108/febrian2108/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<h3 align="left">My Music:</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/f0oslbh0prhhtsy5x6fxhe29i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=f0oslbh0prhhtsy5x6fxhe29i&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
