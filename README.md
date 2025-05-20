@@ -17,6 +17,12 @@
 
 ###
 
+<div align="center">
+  <img height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVmaWszbjA5dmo4OHVpbnNiMmZlMzBxMDBlMTY2NDRrZ2VrZ2lsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJCo9daAP0xugHhhfb/giphy.gif"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
