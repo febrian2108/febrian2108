@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🎯 Goal : Be the Senior Software Engineer<br>📚 I am currently learning the React, Golang, Python programming language</p>
+<p align="left">🎯 Goal : Be the Senior Software Engineer<br>📚 I am currently learning the Laravel, React, and Python programming language</p>
 
 ###
 
